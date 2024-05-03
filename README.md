@@ -8,11 +8,11 @@ Welcome to the Full Stack Revision Series! This repository is dedicated to the f
 This project marks the inception of the Full Stack Revision Series. It embodies the essence of minimalism and sophistication, showcasing the timeless beauty of vanilla web technologies. The tech stack includes HTML5, CSS3, and JS(ES6+), with additional integration of Google Sheets and Figma for a seamless user experience.
 
 ## Tech Stack
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JS(ES6+)
+- JS(ES6+)
 
 ## Results
 
