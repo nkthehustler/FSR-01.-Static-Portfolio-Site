@@ -9,7 +9,9 @@ This project marks the inception of the Full Stack Revision Series. It embodies 
 
 ## Tech Stack
 HTML5
+
 CSS3
+
 JS(ES6+)
 
 ## Results
