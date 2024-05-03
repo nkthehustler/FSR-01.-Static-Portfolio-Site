@@ -24,7 +24,7 @@ This project marks the inception of the Full Stack Revision Series. It embodies 
 ![5  Contact](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/22b7d37c-c01b-44ca-975d-c430395066b0)
 
 
-## Deployed On: https://6634313552829c6a27cab244--stirring-boba-fa1665.netlify.app
+## Deployed On: https://static-port-nk.netlify.app/
 
 # Made with ❤ By nkthehustler
 
