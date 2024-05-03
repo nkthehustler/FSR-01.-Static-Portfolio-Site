@@ -4,17 +4,17 @@ Welcome to the Full Stack Revision Series! This repository is dedicated to the f
 
 ![7  Mockup](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/8dd5f08d-9115-4eef-a816-ad7a6dd3469e)
 
-## Project Overview
+## Project Overview:
 This project marks the inception of the Full Stack Revision Series. It embodies the essence of minimalism and sophistication, showcasing the timeless beauty of vanilla web technologies. The tech stack includes HTML5, CSS3, and JS(ES6+), with additional integration of Google Sheets and Figma for a seamless user experience.
 
-## Tech Stack
+## Tech Stack:
 - HTML5
 
 - CSS3
 
 - JS(ES6+)
 
-## Results
+## Results:
 
 ![1  Home](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/687896d8-9d3d-4434-a9f0-1a73ae2dfb9e)
 ![2  About](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/a3b756f6-a9e1-4ed9-ad35-3f476fca8c41)
