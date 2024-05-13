@@ -23,9 +23,9 @@ This project marks the inception of the Full Stack Revision Series. It embodies 
 ![4  Works](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/ab664311-3411-4686-a729-37fd345383cf)
 ![5  Contact](https://github.com/nkthehustler/FSR-01.-Static-Portfolio-Site/assets/66864065/22b7d37c-c01b-44ca-975d-c430395066b0)
 
-### Design: https://lnkd.in/dhrK7Edr
-## Development: https://lnkd.in/d-m-U9bB
-## Documentation: https://lnkd.in/dEBgUMzf
+### Design on: https://lnkd.in/dhrK7Edr
+## Deployed on: https://lnkd.in/d-m-U9bB
+## Documented on: https://lnkd.in/dEBgUMzf
 
 # Made with ❤ By nkthehustler
 
